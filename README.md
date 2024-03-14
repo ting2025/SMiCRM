@@ -9,5 +9,6 @@ SDF for molecules are a unique file representing the molecular identity in rdkit
 
 # Use and Reuse
 Feel free to use this benchmark dataset to test out your OCSR model. 
+\par
 DOI of this dataset: 10.5281/zenodo.10811653
 Dataset link: https://zenodo.org/records/10811653
