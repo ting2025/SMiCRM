@@ -7,4 +7,6 @@ Optical chemical structure recognition (OCSR) systems aim to understand such dia
 # Structural molecular identities
 SDF for molecules are a unique file representing the molecular identity in rdkit. This repo contains a file on how to translate SMILES into SDF files and save into original file path.
 
-
+# Use and Reuse
+Feel free to use this benchmark dataset to test out your OCSR model. DOI of this dataset: 10.5281/zenodo.10811653
+Dataset link: https://zenodo.org/records/10811653
