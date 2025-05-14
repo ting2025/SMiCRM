@@ -16,7 +16,7 @@ Feel free to use this benchmark dataset to test out your OCSR model.
 https://zenodo.org/records/10811653
 ## Paper access
 Paper: arxiv
-## citations 💌
+## Citation 💌
 If you use our code or our dataset please cite the paper or this github page with
 ```
 @misc{leung2024smicrmbenchmarkdatasetmechanistic,
