@@ -16,3 +16,16 @@ Feel free to use this benchmark dataset to test out your OCSR model.
 https://zenodo.org/records/10811653
 ## Paper access
 Paper: arxiv
+## citations 💌
+If you use our code or our dataset please cite the paper or this github page with
+```
+@misc{leung2024smicrmbenchmarkdatasetmechanistic,
+      title={SMiCRM: A Benchmark Dataset of Mechanistic Molecular Images}, 
+      author={Ching Ting Leung and Yufan Chen and Hanyu Gao},
+      year={2024},
+      eprint={2407.18338},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.18338}, 
+}
+```
